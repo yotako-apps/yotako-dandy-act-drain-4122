@@ -1,0 +1,148 @@
+@media (max-width:768px) {
+  .style0 {
+    background-image: url(https://designresources.assets.yotako.io/9lhfrjcjp3song8.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    border-left: 1px solid #707070;
+    border-right: 1px solid #707070;
+    border-top: 1px solid #707070;
+    border-bottom: 1px solid #707070;
+    margin-left: 76px;
+    margin-top: 91px;
+    width: 196px;
+    height: 249px
+  }
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 375px
+  }
+  .style1 {
+    background-image: url(https://designresources.assets.yotako.io/9lhfrjcjp3soo72.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    border-left: 1px solid #707070;
+    border-right: 1px solid #707070;
+    border-top: 1px solid #707070;
+    border-bottom: 1px solid #707070;
+    margin-left: 83px;
+    margin-top: 90px;
+    width: 196px;
+    height: 249px
+  }
+}
+@media (min-width:768px) and (max-width:920px) {
+  .style0 {
+    background-image: url(https://designresources.assets.yotako.io/9lhfrjcjp3song8.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    border-left: 1px solid #707070;
+    border-right: 1px solid #707070;
+    border-top: 1px solid #707070;
+    border-bottom: 1px solid #707070;
+    margin-left: 156px;
+    margin-top: 186px;
+    width: 401px;
+    height: 510px
+  }
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 768px
+  }
+  .style1 {
+    background-image: url(https://designresources.assets.yotako.io/9lhfrjcjp3soo72.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    border-left: 1px solid #707070;
+    border-right: 1px solid #707070;
+    border-top: 1px solid #707070;
+    border-bottom: 1px solid #707070;
+    margin-left: 170px;
+    margin-top: 184px;
+    width: 401px;
+    height: 510px
+  }
+}
+@media (min-width:920px) and (max-width:1200px) {
+  .style0 {
+    background-image: url(https://designresources.assets.yotako.io/9lhfrjcjp3song8.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    border-left: 1px solid #707070;
+    border-right: 1px solid #707070;
+    border-top: 1px solid #707070;
+    border-bottom: 1px solid #707070;
+    margin-left: 186px;
+    margin-top: 223px;
+    width: 481px;
+    height: 611px
+  }
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 920px
+  }
+  .style1 {
+    background-image: url(https://designresources.assets.yotako.io/9lhfrjcjp3soo72.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    border-left: 1px solid #707070;
+    border-right: 1px solid #707070;
+    border-top: 1px solid #707070;
+    border-bottom: 1px solid #707070;
+    margin-left: 204px;
+    margin-top: 221px;
+    width: 481px;
+    height: 611px
+  }
+}
+@media (min-width:1200px) {
+  .style0 {
+    background-image: url(https://designresources.assets.yotako.io/9lhfrjcjp3song8.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    border-left: 1px solid #707070;
+    border-right: 1px solid #707070;
+    border-top: 1px solid #707070;
+    border-bottom: 1px solid #707070;
+    margin-left: 243px;
+    margin-top: 291px;
+    width: 627px;
+    height: 797px
+  }
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1200px
+  }
+  .style1 {
+    background-image: url(https://designresources.assets.yotako.io/9lhfrjcjp3soo72.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    border-left: 1px solid #707070;
+    border-right: 1px solid #707070;
+    border-top: 1px solid #707070;
+    border-bottom: 1px solid #707070;
+    margin-left: 266px;
+    margin-top: 288px;
+    width: 627px;
+    height: 797px
+  }
+}
